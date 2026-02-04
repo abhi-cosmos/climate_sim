@@ -1,0 +1,24 @@
+# Build artifacts
+*.o
+*.out
+climate-lab
+build/
+bin/
+imgui.ini
+global_temp.csv
+gistemp1200_GHCNv4_ERSSTv5.nc.gz
+
+# Large data files (don't commit NetCDF to git)
+data/*.nc
+data/*.nc4
+*.nc
+*.nc4
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

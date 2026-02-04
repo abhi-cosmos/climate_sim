@@ -2,7 +2,6 @@
 
 C++ application for interactive visualization of NASA GISTEMP global temperature anomaly data.
 
-![Climate Lab Screenshot](screenshot.png)
 
 ## Features
 
